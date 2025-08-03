@@ -11,9 +11,9 @@ we, the medical profession, have taken all the fun out of pregnancy"_ that I wou
 
 In any case, this whole debate goes over the drinking habits of the mother, but what about the dad's drinking habits? Can I fuck up my baby before it is even conceived? Drunk drivers drive faster than sober drivers, do drunk sperm swim faster (or sexier!)? I did some digging:
 
-1. [Alcohol impacts on pregancy](alcohol/alcohol_impacts_on_pregnancy.md): I started with reviewing the advice of drinking for pregnant woman and the impacts on the child. 
+1. [Alcohol impacts on pregancy](alcohol/alcohol_impacts_on_pregnancy.md): I started with reviewing the advice of drinking for pregnant woman and the impacts on the child. **TODO finishe the review!**
 2. [Alcohol impacts on health](alcohol/alcohol_impacts_on_health.md): To scape the selective bias trap, I looked at the advice for drinking in general. 
-3. **TODO** Looking at the risks of alcohol on male fertility. 
+3. [Alcohol impacts on male fertility](alcohol/alcohol_impacts_on_male_fertility.md): Concearned about my fertility, I would like to know if my drinking habits are impacting my fatherhood chances.
 4. **TODO** Looking at alcohol's risks during breast feeding.
 
 **what is a standard drink?** 1 standard drink is about 300ml of beer or 120ml of wine acording to the [cancer code europe](https://cancer-code-europe.iarc.fr/index.php/en/ecac-12-ways/alcohol-recommendation/27-standard-drink). But different countries have their own definitions:
