@@ -4,9 +4,9 @@
 
 > **⚠️ WORK IN PROGRESS ⚠️** - This project is actively being developed. Content is being added and refined regularly.
 
-Pregnancy is challenging and full of myths. As a supporting partner, understanding how to help can make a significant difference. This project collects research-based information to guide expecting fathers — and mothers — through pregnancy.
+Pregnancy is challenging and full of myths. It would be great she would be pregnand on even days and pass it to me on odd ones (pun intended!), however, biology does not allow me to be THAT supportive. The second best thing might be understanding how and when to help. This project collects research-based information to guide expecting fathers — and mothers — through pregnancy.
 
-Main lesson so far: Mostly of the recommendations for an healthy lifestyle are also true for a healthy pregnancy. Don't freak out, most decisions are not on matters of life and death. Alchool is generally bad for you, but in moderation it has limited negative effects, similarly during the pregnancy. Exercises lead to healthier mother - pregnant or not!
+Main lesson so far: Mostly of the recommendations for an healthy lifestyle are also true for a healthy pregnancy. Don't freak out, most decisions are not on matters of life and death. Exercises lead to healthier a mother - pregnant or not! Limiting alcohol consumption is recommended for everyone, washing veggies is the hygenic thing to do before eating them... Pregnancy might raise the stakes, but on 80% of what I read, the advice for pregnant woman is the same as for everyone else, just adjusted for the risk.
 
 All information is based on scientific research with references provided.
 
