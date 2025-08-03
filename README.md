@@ -14,7 +14,7 @@ All information is based on scientific research with references provided.
 
 Topics are added without prioritization.
 
-1. [Acochol](alchool.md)
+1. [Acochol](alcohol.md)
 
 ### Methodology
 - [Methodology Lessons](methodology_lessons.md)
