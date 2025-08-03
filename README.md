@@ -1,6 +1,7 @@
-# The Pregnant Dad
+# The Hitchhiker's Guide to Pregnancy
 
-![The Pregnant Dad](cover_images/landscape_cover.png)
+
+![](cover_images/landscape_cover.png)
 
 > **⚠️ WORK IN PROGRESS ⚠️** - This project is actively being developed. Content is being added and refined regularly.
 
