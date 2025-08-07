@@ -4,9 +4,9 @@
 
 Scientific studies consistently show that **no** level of alcohol consumption is risk-free. While some research points to minor cardiovascular benefits from occasional drinking, the risks — including cancer, liver disease, and premature death - far outweigh any potential gains. Health organizations worldwide, like the WHO, Canada's, US, UK, Australia and France updated their guidelines, to urge significant caution. Australia has the losest guidelines of them recommending no more than 10 drinks a week and no more than 4 a day, France recommends at least 2 alcohol-free days and Canada is the strikest recommending no more than 2 drinks a week. Cheers to that!
 
-_Do cheeks get drunk faster?_ On average, yes, but they also face higher health risks. Women's blood alcohol levels are higher than men's for the same alcohol intake due to physiological factors like, body water content, metabolism, and hormones. Though the variations between individuals often outweight the gender distinctions. Most countries regonize that and adopt gender-neutral recommendations. Yet, on health, women face heightened risks, such as an increased likelihood of breast cancer and faster development of liver disease even at low levels of drinking. 
+_Do chicks get drunk faster?_ On average, yes, but they also face higher health risks. Women's blood alcohol levels are higher than men's for the same alcohol intake due to physiological factors like, body water content, metabolism, and hormones. Though the variations between individuals often outweight the gender distinctions. Most countries regonize that and adopt gender-neutral recommendations. Yet, on health, women face heightened risks, such as an increased likelihood of breast cancer and faster development of liver disease even at low levels of drinking. 
 
-## Top 3 Most Rigorous Studies (In-Depth Analysis)
+## The most important studies
 
 ### 1. Global Burden of Disease 2016 Alcohol Study (GBD 2016 Alcohol Collaborators, 2018)
 
@@ -47,6 +47,8 @@ A key finding was that studies reporting higher mean relative risk estimates of 
 
 ## Additional Supporting Studies
 
+:warning: Volunteer needed to review this study.
+
 ### 4. Zhao et al. (2023) - Association Between Daily Alcohol Intake and Risk of All-Cause Mortality
 
 * **Definition of Low Consumption**: 1.3-24.9 g/day (approximately 1-2 standard drinks)
@@ -60,6 +62,8 @@ This comprehensive meta-analysis confirmed that many prior studies showing prote
 
 ### 5. Canadian Centre on Substance Use and Addiction (CCSA) Guidelines Update (2022)
 
+:warning: Volunteer needed to review this study.
+
 * **Definition of Low Consumption**: 1-2 standard drinks per week
 * **Sample Size**: Comprehensive review of existing studies
 * **Key Correlations**: Examined associations between alcohol consumption and various health outcomes including cancer, cardiovascular disease, and liver disease
@@ -70,6 +74,8 @@ Canada's updated guidance represents one of the most restrictive national guidel
 [[9]](https://www.ccsa.ca/sites/default/files/2023-01/CCSA_Canadas_Guidance_on_Alcohol_and_Health_Final_Report_en.pdf)
 
 ### 6. U.S. Dietary Guidelines for Americans 2020-2025
+
+:warning: Volunteer needed to review this study.
 
 * **Definition of Low Consumption**: Up to 1 drink per day for women and up to 2 drinks per day for men
 * **Sample Size**: Comprehensive review of existing research
@@ -83,6 +89,8 @@ The U.S. guidelines, while more permissive than some other countries, still emph
 
 ### 6. Burton & Sheron (2018) - No Level of Alcohol Consumption Improves Health
 
+:warning: Volunteer needed to review this study.
+
 * **Definition of Low Consumption**: Any alcohol consumption
 * **Sample Size**: Review of multiple studies
 * **Key Finding**: Concluded that the protective effects attributed to low-volume alcohol consumption in previous studies were likely the result of methodological errors. When these errors were corrected, no level of alcohol consumption was found to improve health.
@@ -90,6 +98,8 @@ The U.S. guidelines, while more permissive than some other countries, still emph
 [[10]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31571-X/fulltext)
 
 ### 7. Griswold et al. (2022) - Population-level risks of alcohol consumption by amount
+
+:warning: Volunteer needed to review this study.
 
 * **Definition of Low Consumption**: 0.1-20 g/day (up to approximately 1.5 standard drinks)
 * **Sample Size**: Analysis for the Global Burden of Disease Study 2020, covering global population
@@ -99,6 +109,8 @@ The U.S. guidelines, while more permissive than some other countries, still emph
 
 ### 7. Meta-Analysis on Cardiovascular Disease (Di Castelnuovo et al., 2022)
 
+:warning: Volunteer needed to review this study.
+
 * **Definition of Low Consumption**: Up to 12g per day (approximately 1 standard drink)
 * **Sample Size**: Meta-analysis of multiple studies including over 1 million participants
 * **Key Correlations**: Examined relationships between alcohol consumption, age, sex, and cardiovascular outcomes
@@ -107,36 +119,6 @@ The U.S. guidelines, while more permissive than some other countries, still emph
 This meta-analysis is notable for suggesting some potential cardiovascular benefits from very low levels of alcohol consumption, particularly for older adults. However, the authors emphasized that these benefits are modest, specific to certain populations, and must be weighed against increased risks of cancer, liver disease, and other health problems even at low consumption levels.
 
 [[13]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7020057/)
-
-## Critical Analysis of the Evidence
-
-### Strengths of Current Research
-
-* **Large sample sizes**: Modern studies often include hundreds of thousands or even millions of participants
-* **Improved methodology**: Recent studies better account for confounding factors and study design issues
-* **Global perspective**: Studies now include diverse populations across many countries
-* **Consistent findings**: Multiple large studies reach similar conclusions about risks of low alcohol consumption
-* **Better categorization**: Improved distinction between lifetime abstainers and former drinkers
-* **More sophisticated analysis**: Better understanding of dose-response relationships and differences by age, sex, and other factors
-
-
-### Methodological Issues in Earlier Studies
-
-* **Sick quitter bias**: Many older studies included former drinkers (who may have quit due to health issues) in the abstainer group, artificially making abstention appear riskier
-* **Inadequate control for confounding factors**: Socioeconomic status, education, access to healthcare, and other factors can significantly affect health outcomes
-* **Selection bias**: Healthier people may be more likely to consume moderate amounts of alcohol
-* **Imprecise measurement**: Self-reported alcohol consumption is often unreliable
-* **Publication bias**: Studies showing benefits of alcohol may have been more likely to be published and distributed by mainstream media.
-
-### Persisting Debates
-
-Despite the growing consensus that no level of alcohol consumption is completely safe, debates continue around:
-
-1. **Potential cardiovascular benefits**: Some studies still suggest modest cardiovascular benefits from low alcohol consumption, particularly for certain populations
-2. **Risk-benefit calculations**: Whether tiny increases in absolute risk at very low consumption levels are meaningful at an individual level
-3. **Individual variation**: Genetic factors may influence how alcohol affects different individuals
-4. **Type of alcohol**: Whether different alcoholic beverages might have different health effects
-5. **Pattern of consumption**: Whether spreading consumption over time is less harmful than concentrated drinking
 
 ## Conclusion
 

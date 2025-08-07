@@ -4,7 +4,7 @@
 
 Science says alcohol is like that unpredictable friend that makes or breaks a party. They all agree, however, moderation is key, don't invite that friend for diner, keep it for celebrating carnaval:
 
-**Bad news first (momento agua no chope):**
+**Bad news first (agua no chope):**
 1. Heavy drinking (aka drowning in booze) zaps testosterone, damages the little swimmers (sperm), and even messes with their “swimming lanes” (maturation process) — basically, they’re taking a nap instead of racing.
 2. Chronic boozing creates oxidative stress that fries their DNA like overcooked bacon. Not a good look for your future mini-you.
 3. It even smashes your gonads (ouch) and robs your nutrients like zinc, which sperm kinda need to live their best lives.
@@ -20,7 +20,7 @@ There is evidence that many alcohol-induced fertility issues may be reversible w
 
 **Balance with Partner's Needs**: If your girl is avoiding alcohol during conception attempts or pregnancy, you might choose to reduce consumption in solidarity. That might also help you two find some romance in nights where you would be hugging the toilet instead.
 
-## Top Most Important Studies 
+## Top Most Important Studies
 
 ### 1. Ricci et al. (2017) - Systematic Review and Meta-Analysis on Alcohol and Semen Quality
 
@@ -73,6 +73,8 @@ This recent and comprehensive meta-analysis is valuable for its large sample siz
 
 ### 4. Italian Fertility Clinic Study (2018) - Moderate Alcohol Consumption and Male Fertility
 
+:warning: Volunteer needed to review this study.
+
 * **Type of Alcohol Consumption**: Categorized consumption as none, 1-3 units/week, 4-7 units/week, and >7 units/week (1 unit = 12g of alcohol)
 * **Sample Size**: 323 men undergoing fertility evaluation at an Italian fertility clinic
 * **Key Correlations**:
@@ -87,6 +89,8 @@ This recent and comprehensive meta-analysis is valuable for its large sample siz
 [[3]](https://www.sciencedaily.com/releases/2018/07/180718082212.htm) 
 
 ### 5. Afeiche et al. (2017) - Alcohol Consumption and ART Outcomes
+
+:warning: Volunteer needed to review this study.
 
 * **Type of Alcohol Consumption**: Pre-treatment alcohol intake measured in drinks/week and categorized as <1, 1-3, 4-7, and ≥8 drinks/week
 * **Sample Size**: 189 male partners of couples undergoing infertility treatment with assisted reproductive technology (ART)
@@ -103,6 +107,8 @@ This recent and comprehensive meta-analysis is valuable for its large sample siz
 
 ### 6. Danish Study on Young Men (2020) - Moderate Drinking and Hormonal Balance
 
+:warning: Volunteer needed to review this study.
+
 * **Type of Alcohol Consumption**: Self-reported weekly alcohol intake
 * **Sample Size**: 1,221 young Danish men
 * **Key Finding**: Moderate alcohol consumption was associated with higher testosterone levels without negative impacts on other reproductive hormones or semen quality parameters in healthy young men. This suggests that occasional moderate drinking might actually support optimal hormonal balance in men.
@@ -112,6 +118,8 @@ This study is significant as it focuses on healthy young men rather than those s
 [[6]](https://bmjopen.bmj.com/content/4/9/e005462)
 
 ### 7. Boeri et al. (2020) - Differential Effects of Alcohol on Primary vs. Secondary Infertility
+
+:warning: Volunteer needed to review this study.
 
 * **Type of Alcohol Consumption**: Self-reported alcohol intake categorized as none, 1-3, 4-6, and ≥7 drinks/week
 * **Sample Size**: 323 infertile men (199 with primary infertility, 124 with secondary infertility)
@@ -123,6 +131,8 @@ This study highlights the importance of considering individual factors when asse
 
 ### 8. Prospective Cohort Study (2019) - Occasional Drinking and Sperm DNA Quality
 
+:warning: Volunteer needed to review this study.
+
 * **Type of Alcohol Consumption**: Occasional alcohol consumption (1-2 drinks, 1-2 times per week)
 * **Sample Size**: 120 men from general population
 * **Key Finding**: Occasional alcohol consumption did not significantly alter conventional semen parameters or overall fertility potential. While researchers noted an increased presence of macrocephalic sperm, this did not translate to reduced fertility outcomes in real-world scenarios.
@@ -133,6 +143,8 @@ This study provides reassurance that light, occasional drinking likely does not 
 
 ### 8. Boeri et al. (2020) - Alcohol Intake and Semen Parameters in Men with Primary and Secondary Infertility
 
+:warning: Volunteer needed to review this study.
+
 * **Type of Alcohol Consumption**: Self-reported alcohol intake categorized as none, 1-3, 4-6, and ≥7 drinks/week
 * **Sample Size**: 323 infertile men (199 with primary infertility, 124 with secondary infertility)
 * **Key Finding**: Higher alcohol intake was associated with lower sperm concentration, but only in men with secondary infertility. This suggests that men who have previously fathered children may be more vulnerable to alcohol's effects on fertility.
@@ -141,17 +153,12 @@ This study is interesting for highlighting potential differences in how alcohol 
 
 [[9]](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2020.566625/full)
 
-
-
-
-
-
 ## Conclusion
 
-The scientific evidence on alcohol and male fertility presents a more nuanced picture than is often portrayed in public health messaging. While excessive alcohol consumption clearly harms male reproductive function, moderate or occasional consumption appears unlikely to significantly impair fertility and may even be associated with improved semen parameters or fertility outcomes in some studies.
+The scientific evidence on alcohol and male fertility presents a more nuanced picture than is often portrayed in public health messaging. While excessive alcohol consumption clearly harms male reproductive function, moderate or occasional consumption appears unlikely to significantly impair fertility. The evidence on improved semen parameters or fertility outcomes should be taken with extra scrutiny. Ultimately, you are the one deciding on what is the level of risk you are comfortable with.
 
-The distinction between occasional and daily drinking patterns appears particularly important, with occasional moderate drinking showing no consistent negative effects. The relationship between alcohol and male fertility likely follows a J-shaped or inverted U-shaped curve, where both abstinence and excessive consumption may be suboptimal compared to moderate intake.
+On a high level, moderation is the word of the day. A beer to shave the edge of the week might have positive effects. Such as lower stress and improve emotional well-being while not negatively impacting your fertility. Getting hammered on even days and pissed on odd ones, however, will have very negative effects on your health and on the health of your swimmers. 
 
-This evidence challenges the common recommendation for complete abstinence when trying to conceive and suggests that a more balanced approach—allowing for moderate, non-binge alcohol consumption—may be appropriate for many men.
+Not all bad news after all, bring a cold one, and let's celebrate!
 
 *Note: This document presents scientific evidence but does not constitute medical advice. Individuals should consult healthcare providers for personalized guidance.*
