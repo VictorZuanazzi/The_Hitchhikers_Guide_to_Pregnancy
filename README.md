@@ -32,6 +32,7 @@ Do not take the information from the archive on its face value. The content has 
 1. Oster mentions ABCDX classification of drugs by FDA, are there other entities that are trust worthy and worth looking at?
 2. Are there exercises that help reduce period cramps? (happy wife, happy life, more precisely: less cranky wife, fewer miserable days during her period.)
 3. Oster mentions that Bed Rest makes more harm than good. How to handle a doctor that prescribes bed rest?
+4. Extend the alcohol section to include alcohol impacts on breast feeding.
 
 ## Contributing
 
