@@ -1,6 +1,5 @@
 # The Hitchhiker's Guide to Pregnancy
 
-
 ![](cover_images/landscape_cover.png)
 
 > **⚠️ WORK IN PROGRESS ⚠️** - This project is actively being developed. Content is being added and refined regularly.
@@ -33,6 +32,8 @@ Do not take the information from the archive on its face value. The content has 
 2. Are there exercises that help reduce period cramps? (happy wife, happy life, more precisely: less cranky wife, fewer miserable days during her period.)
 3. Oster mentions that Bed Rest makes more harm than good. How to handle a doctor that prescribes bed rest?
 4. Extend the alcohol section to include alcohol impacts on breast feeding.
+5. Recommended eating habits (what is good to eat instead of what is bad)
+6. what about drinking water?!
 
 ## Contributing
 
