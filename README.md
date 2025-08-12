@@ -34,6 +34,7 @@ Do not take the information from the archive on its face value. The content has 
 4. Extend the alcohol section to include alcohol impacts on breast feeding.
 5. Recommended eating habits (what is good to eat instead of what is bad)
 6. what about drinking water?!
+7. labour pain relief. What is epidural, how does that translate to the dutch reality?
 
 ## Contributing
 
