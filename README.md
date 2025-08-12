@@ -37,6 +37,8 @@ Do not take the information from the archive on its face value. The content has 
 7. labour pain relief. What is epidural, how does that translate to the dutch reality? (She lacks in mentions regarding nitrous oxide (lachgas?))
 8. labour pain relief. Oster mentions increased risks ans longer recovery, but she does not qualify it. Look for the numbers.
 9. labour pain releaf breathing technique. Hos strong of a plan B is it?
+10. Is food in the delivery room allowed in the Netherlands? Belgium, Brazil? Breakdown per country would be nice.
+
 
 ## Contributing
 
