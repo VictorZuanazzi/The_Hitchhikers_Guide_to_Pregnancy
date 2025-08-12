@@ -1,6 +1,6 @@
 ## The Risks and Fears of Alcohol Consumption 
 
-> **The Gist:** Alcohol is bad for you, always! Even low amounts of alcohol increase ~~risks of cancer~~ long-term health risks. As general advice, drinking less and slower is the mitigation strategy. For pregnant woman, there is robust evidence supporting that one drink a week after the second trimester does not harm the child. Alcohol negatively impacts male fertility, drinking while wanting to conceive is not a good combination. 
+> **The Gist:** Alcohol is bad for you, always! Even low amounts of alcohol increase ~~risks of cancer~~ long-term health risks. As general advice, drinking less and slower is the mitigation strategy. For pregnant woman, there is robust evidence supporting that one or two drinks a week after the first trimester does not harm the child. Similarly for wanna-be dads, a couple of beers a week is probably fine, more than that will negatively impact male fertility.
 
 First off, any level of alchohol consuption is problematic for everyone, at all ages, pregnant or not. It is not surprising that it has negative consequences for the fetus during the pregnancy. 
 

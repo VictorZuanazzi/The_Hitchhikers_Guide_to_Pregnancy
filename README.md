@@ -1,5 +1,6 @@
 # The Hitchhiker's Guide to Pregnancy
 
+
 ![](cover_images/landscape_cover.png)
 
 > **⚠️ WORK IN PROGRESS ⚠️** - This project is actively being developed. Content is being added and refined regularly.
@@ -26,20 +27,6 @@ Topics are added without prioritization.
 ### Archive
 
 Do not take the information from the archive on its face value. The content has not gone through systematic review, was considered irrelevant, or has been duplicated into other files. The files are kept in the archive in case the information is useful in the future.
-
-## Topics to be reseaerched
-1. Oster mentions ABCDX classification of drugs by FDA, are there other entities that are trust worthy and worth looking at?
-2. Are there exercises that help reduce period cramps? (happy wife, happy life, more precisely: less cranky wife, fewer miserable days during her period.)
-3. Oster mentions that Bed Rest makes more harm than good. How to handle a doctor that prescribes bed rest?
-4. Extend the alcohol section to include alcohol impacts on breast feeding.
-5. Recommended eating habits (what is good to eat instead of what is bad)
-6. what about drinking water?!
-7. labour pain relief. What is epidural, how does that translate to the dutch reality? (She lacks in mentions regarding nitrous oxide (lachgas?))
-8. labour pain relief. Oster mentions increased risks ans longer recovery, but she does not qualify it. Look for the numbers.
-9. labour pain releaf breathing technique. Hos strong of a plan B is it?
-10. Is food in the delivery room allowed in the Netherlands? Belgium, Brazil? Breakdown per country would be nice.
-11. What are Doulas in the Netherlands? 
-
 
 ## Contributing
 
