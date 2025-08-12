@@ -35,6 +35,7 @@ Do not take the information from the archive on its face value. The content has 
 5. Recommended eating habits (what is good to eat instead of what is bad)
 6. what about drinking water?!
 7. labour pain relief. What is epidural, how does that translate to the dutch reality?
+8. labour pain relief. Oster mentions increased risks ans longer recovery, but she does not qualify it. Look for the numbers
 
 ## Contributing
 
