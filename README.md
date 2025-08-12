@@ -34,8 +34,9 @@ Do not take the information from the archive on its face value. The content has 
 4. Extend the alcohol section to include alcohol impacts on breast feeding.
 5. Recommended eating habits (what is good to eat instead of what is bad)
 6. what about drinking water?!
-7. labour pain relief. What is epidural, how does that translate to the dutch reality?
-8. labour pain relief. Oster mentions increased risks ans longer recovery, but she does not qualify it. Look for the numbers
+7. labour pain relief. What is epidural, how does that translate to the dutch reality? (She lacks in mentions regarding nitrous oxide (lachgas?))
+8. labour pain relief. Oster mentions increased risks ans longer recovery, but she does not qualify it. Look for the numbers.
+9. labour pain releaf breathing technique. Hos strong of a plan B is it?
 
 ## Contributing
 
