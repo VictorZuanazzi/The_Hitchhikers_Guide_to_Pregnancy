@@ -15,4 +15,5 @@ In no particular order, topics open to be researched:
 * labour pain relief. Oster mentions increased risks ans longer recovery, but she does not qualify it. Look for the numbers.
 * labour pain releaf breathing technique. Hos strong of a plan B is it?
 * Is food in the delivery room allowed in the Netherlands? Belgium, Brazil? Breakdown per country would be nice.
-* What are Doulas in the Netherlands? 
+* What are Doulas in the Netherlands?
+* is Continous monitoring the default in the Netherlands? Oster brings evidence they are uncomfortable for the mother, increase chance of Csection and other invasive interventions and bring no advantage for the baby
