@@ -13,8 +13,6 @@ Quick gist (what the best evidence suggests)
 
 Note: "Exercise" below reflects leisure-time physical activity (LTPA) categories used in the studies: moderate (e.g., brisk walking, easy cycling, doubles tennis) and vigorous (e.g., running, aerobics, lap swimming, fast cycling).
 
-
-
 Top 3 most robust articles
 
 1) Wesselink et al. (PRESTO) – Physical activity and fecundability in a North American preconception cohort
@@ -34,8 +32,7 @@ Top 3 most robust articles
   - Observational design (cannot prove causation).
 - Positive effects: Women's vigorous PA associated with slightly shorter time-to-pregnancy; no signal of harm for moderate activity.
 - Negative effects: Male high-volume cycling possibly associated with lower fecundability.
-- Citation: Wesselink AK, Hatch EE, Rothman KJ, et al. Physical activity and fecundability in a North American preconception cohort (PRESTO). Human Reproduction. Link: https://pubmed.ncbi.nlm.nih.gov/30576487/
-
+- Citation: Wesselink AK, Hatch EE, Rothman KJ, et al. Physical activity and fecundability in a North American preconception cohort (PRESTO). Human Reproduction. Link: https://pubmed.ncbi.nlm.nih.gov/30576487/ 
 
 2) Mikkelsen/Wise/Hatch et al. (Snart-Gravid, Denmark) – Female LTPA and time-to-pregnancy
 - Population and design: Prospective preconception internet-based Danish cohort (Snart-Gravid) of healthy women 18–40 attempting conception.
