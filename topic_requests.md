@@ -18,3 +18,4 @@ In no particular order, topics open to be researched:
 * What are Doulas in the Netherlands?
 * is Continous monitoring the default in the Netherlands? Oster brings evidence they are uncomfortable for the mother, increase chance of Csection and other invasive interventions and bring no advantage for the baby
 * aspirin and pregnancy? To be avoided, what are the risks? What to use instead?
+* home birth, why is it the standard in nl?
