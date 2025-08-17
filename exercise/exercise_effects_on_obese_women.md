@@ -27,6 +27,7 @@ Randomized Trial of a Lifestyle Program in Obese Infertile Women (LIFEstyle Stud
 
 ## Legro RS et al. 2016. 
 
+:warning: Volunteer needed to review this study.
 OWL–PCOS Trial: Preconception Lifestyle Modification prior to Ovulation Induction in Obese Women with PCOS [Legro 2016](https://pubmed.ncbi.nlm.nih.gov/27571051/)
 
 - Population: Obese infertile women with PCOS randomized to preconception lifestyle modification (diet + exercise), oral contraceptive pretreatment, or combined, followed by standardized ovulation induction.
@@ -44,3 +45,24 @@ OWL–PCOS Trial: Preconception Lifestyle Modification prior to Ovulation Induct
   - Better insulin sensitivity, higher ovulation and clinical pregnancy chances, potential improvement in live birth when combined with subsequent induction.
 - Negative effects/risks:
   - Time to treatment initiation increased; adherence challenges; generalizability limited to women with PCOS and obesity.
+
+## Body mass index, physical activity, and fecundability in a North American preconception cohort
+
+:warning: Volunteer needed to review this study.
+
+- Population & design: Prospective preconception cohort (PRESTO) of healthy pregnancy planners in the US/Canada; time-to-pregnancy followed up to 12 cycles.
+- Exercise description:
+  - Women’s self-reported LTPA categorized by intensity and hours/week; typical examples: walking, cycling, running, aerobics/fitness.
+- Duration & frequency: Habitual weekly categories for moderate and vigorous PA at baseline preconception.
+- Main findings:
+  - Moderate PA was associated with improved fecundability overall after adjustment.
+  - Associations for vigorous PA varied by BMI in stratified analyses; among healthy-weight women, neutral to modestly positive associations were observed without evidence of harm at typical volumes.
+- Methodology: Prospective cohort; discrete-time models; robust covariate adjustment (age, BMI, smoking, alcohol/caffeine, intercourse frequency, menstrual characteristics, parity, education).
+- Limitations:
+  - Self-reported PA; measurement error.
+  - Observational; possible residual confounding.
+  - Some subgroup findings may be underpowered.
+- Positive effects: Moderate preconception PA beneficial/neutral for time-to-pregnancy in healthy-weight women; no harm with typical vigorous volumes.
+- Negative effects: Very high vigorous volumes may not add benefit and could be counterproductive in energy-deficient contexts.
+- Full text: Journal article page (Fertility and Sterility): https://www.fertstert.org/article/S0015-0282(16)61103-2/fulltext
+- (see “Full-Text” on journal site). PubMed: https://pubmed.ncbi.nlm.nih.gov/27125230/
