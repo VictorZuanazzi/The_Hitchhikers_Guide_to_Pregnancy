@@ -2,7 +2,7 @@
 
 > **The Gist:** Alcohol is bad for you, always! Even low amounts of alcohol increase ~~risks of cancer~~ long-term health risks. As general advice, drinking less and slower is the mitigation strategy. For pregnant woman, there is robust evidence supporting that one or two drinks a week after the first trimester does not harm the child. Similarly for wanna-be dads, a couple of beers a week is probably fine, more than that will negatively impact male fertility.
 
-First off, any level of alchohol consuption is problematic for everyone, at all ages, pregnant or not. It is not surprising that it has negative consequences for the fetus during the pregnancy. 
+First off, any level of alcohol consumption is problematic for everyone, at all ages, pregnant or not. It is not surprising that it has negative consequences for the fetus during the pregnancy. 
 
 In her book _Expecting Better_ Emily Oster presents evidence that a drink a week isn't problematic. She goes as far as claiming that there is no strong evidence against a drink a day. With the caviat that rate of ingestion matters, a can of beer (250ml) should be less problematic than a shot (50ml) of tequila. That raised my eyebrows. 
 
