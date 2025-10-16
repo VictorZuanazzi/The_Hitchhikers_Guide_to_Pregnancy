@@ -21,7 +21,9 @@ This systematic review and network meta-analysis of 29 randomized controlled tri
     *   **Relaxation exercises** were the most effective at both 4 and 8 weeks.
     *   Relaxation exercises also had the lowest dropout rate, suggesting they are a more sustainable option for many women.
 
-[[1]](https://pubmed.ncbi.nlm.nih.gov/38816591/)
+[[1]](https://sportsmedicine-open.springeropen.com/articles/10.1186/s40798-024-00718-4)
+
+![Graphical Abstract from Tsai et al. (2024)](tsai_et_al_2024_graphical_abstract.webp)
 
 ### 2. Zheng et al. (2024): A Deeper Dive into Exercise Regimens
 
