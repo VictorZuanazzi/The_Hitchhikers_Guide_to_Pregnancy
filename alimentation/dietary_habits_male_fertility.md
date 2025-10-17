@@ -33,6 +33,8 @@ This comprehensive analysis found that healthy dietary patterns significantly im
 
 ### 2. Systematic Scoping Review: Preconception Diet and Male Fertility (2024)
 
+![image](images/dmad035f2.jpg)
+
 **Study Design**: Systematic scoping review of preconception diet and male fertility
 **Sample Size**: 37 studies (1 RCT, 36 observational studies)
 **Key Findings**:
