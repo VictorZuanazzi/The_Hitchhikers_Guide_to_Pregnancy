@@ -1,11 +1,9 @@
 ## Feed the beast (and your swimmers)
 
-
-
 Welcome to the food court of fertility! Here's your delicious, science-backed tour of our alimentation articles. From Mediterranean magic to vegetarian verdicts, we've got the scoop on what to put on your plate to boost those baby-making odds. Spoiler alert: your mom was right about eating your vegetables.
 
 ![FeedTheBeast](alimentation/images/foodfertility.png)
-*Note: the image is wrong, weternized diets lead to lower fertility!*
+*Note: the image is wrong, scientific evidence shows that westernized diets lead to lower fertility!*
 
 - [Dietary Habits and Male Fertility](alimentation/dietary_habits_male_fertility.md) — fuel for your swimmers
   - **TL;DR**: Your diet can make or break your swimmers' performance. A Mediterranean-style diet with plenty of fruits, vegetables, nuts, and fish can boost your sperm count by nearly 7 million per milliliter and improve motility by almost 6%. On the flip side, processed meats and ultra-low-fat diets can tank your testosterone levels and hurt your chances. Think of it as fuel for your reproductive engine - you wouldn't put cheap gas in a Ferrari, so don't feed your boys junk food.
