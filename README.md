@@ -17,6 +17,7 @@ Topics are added without prioritization.
 
 1. [Alcohol](alcohol.md)
 2. [Exercise](exercise.md)
+3. [Alimentation](alimentation.md)
 
 ### Methodology
 - [Methodology Lessons](methodology_lessons.md)
